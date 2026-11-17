@@ -1,7 +1,7 @@
 # 👩‍💻 Olá, eu sou a Clarice Presley!
 
 ## 🌟Sobre mim
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora`**
 
 Estudante de Ciência da Computaçâo, estou constantemente atualizando meus conhecimentos e buscando novos desafios na área da tecnologia. Tenho paixão por transformar conhecimento em soluções criativas e inovadoras.
 
